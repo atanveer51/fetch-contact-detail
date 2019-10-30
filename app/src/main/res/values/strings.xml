@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">contact_fetch</string>
+
+    <string name="permission_prefence">PERMISSION_PREFENCE</string>
+    <string name="permission_camra">PERMISSION_CAMRA</string>
+    <string name="permission_storage">PERMISSION_STORAGE</string>
+    <string name="permission_contact">PERMISSION_CONTACT</string>
+</resources>

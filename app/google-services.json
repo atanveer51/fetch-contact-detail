@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387606614072",
+    "firebase_url": "https://fetchcontact-299a2.firebaseio.com",
+    "project_id": "fetchcontact-299a2",
+    "storage_bucket": "fetchcontact-299a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387606614072:android:7e4cd1921bb482c70416cd",
+        "android_client_info": {
+          "package_name": "com.example.contact_fetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387606614072-oof8buh409i843e67bhn34oq3atdt51n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contact_fetch",
+            "certificate_hash": "32d870d8ae1f4ef6cb0a2f2c5fda873d6a6cd628"
+          }
+        },
+        {
+          "client_id": "387606614072-uemcvtfgfi79umciv60dpp6epe512ubr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rvmzhapL6klcX2IHjhfd4wRZ2lCs9M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387606614072-uemcvtfgfi79umciv60dpp6epe512ubr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
